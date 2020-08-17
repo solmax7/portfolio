@@ -65,7 +65,7 @@
 }
 .about-me-container{
 	display: flex;
-	max-width: 400px;
+/*max-width: 400px;*/
 }
 .section1{
 	display: flex;
@@ -106,4 +106,12 @@
 	max-height: 449px;
 	background-color: #d1bac8; 
 	text-align: center;
+}
+
+.project {
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.years {
+	color: rgba(0, 0, 0, 0.6);
 }
